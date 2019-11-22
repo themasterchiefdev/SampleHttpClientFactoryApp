@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientFactory.UI", "HttpClientFactory.UI\HttpClientFactory.UI.csproj", "{23E9DAFD-5A97-467B-AFAF-25D30B901449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientFactory.Util", "HttpClientFactory.Util\HttpClientFactory.Util.csproj", "{18ED4CEE-728E-4B69-9713-07664AE65B14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E9DAFD-5A97-467B-AFAF-25D30B901449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E9DAFD-5A97-467B-AFAF-25D30B901449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E9DAFD-5A97-467B-AFAF-25D30B901449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E9DAFD-5A97-467B-AFAF-25D30B901449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18ED4CEE-728E-4B69-9713-07664AE65B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ED4CEE-728E-4B69-9713-07664AE65B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ED4CEE-728E-4B69-9713-07664AE65B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ED4CEE-728E-4B69-9713-07664AE65B14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
