@@ -26,6 +26,7 @@
             </e>
           </e>
         </e>
+        <e p="Startup.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="SampleHttpClientFactoryApp.sln" t="IncludeFlat" />
